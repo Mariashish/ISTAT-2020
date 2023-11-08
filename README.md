@@ -1,5 +1,5 @@
 # ISTAT-2020
-This Data Science project delves into Italy's socio-economic landscape by focusing on the ISTAT 2020 index of poverty. Using the power of R, we aim to uncover the nuances and dynamics of poverty in Italy.
+This Data Science project (in particular Data Mining and Analytics) delves into Italy's socio-economic landscape by focusing on the ISTAT 2020 index of poverty. Using the power of R, we aim to uncover the nuances and dynamics of poverty in Italy.
 
 Our project offers an in-depth analysis of ISTAT's comprehensive dataset, including demographic, economic, and regional aspects. We employ a variety of statistical techniques and data visualization tools in R to provide a holistic perspective on poverty's multifaceted nature.
 
